@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+#nav-container{
+    display: flex;
+    /* position: absolute; */
+    width: 100%;
+}
+
+#nav-logo {
+    width: 20%;
+    padding: 10px;
+}
+
+#nav-tabs {
+    width: 80%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.tab {
+    min-width: 100px;
+    margin: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    /* color: #fff; */
+    /* font-size: 20px; */
+}
