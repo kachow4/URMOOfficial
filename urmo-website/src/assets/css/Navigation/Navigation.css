@@ -10,7 +10,8 @@
 
 #nav-logo {
     width: 20%;
-    padding: 10px;
+    padding: 20px;
+    padding-left: 15%;
 }
 
 #nav-tabs {
@@ -18,6 +19,7 @@
     display: flex;
     justify-content: right;
     align-items: center;
+    padding-right: 15%;
 }
 
 .tab {
@@ -25,6 +27,6 @@
     margin: 10px 20px;
     text-align: center;
     text-decoration: none;
-    /* color: #fff; */
-    /* font-size: 20px; */
+    color: black;
+    font-size: 20px;
 }
